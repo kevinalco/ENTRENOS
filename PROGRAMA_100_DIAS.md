@@ -38,7 +38,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 1 — Base y técnica de empuje
 **Enfoque:** Técnica · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote suave en el sitio · 2 min
 - Círculos de brazos y movilidad de muñecas · 1 min
 - Sentadillas suaves · 1 min
@@ -65,7 +65,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 2 — Pierna y acondicionamiento
 **Enfoque:** Pierna + cardio · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Marcha rápida · 2 min
 - Movilidad de cadera y tobillo · 2 min
 - Zancadas cortas alternas · 1 min
@@ -91,7 +91,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 3 — Empuje cerrado y potencia
 **Enfoque:** Pecho + potencia · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote en el sitio · 2 min
 - Movilidad de hombros y muñecas · 2 min
 - Sentadillas y flexiones suaves · 1 min
@@ -118,7 +118,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 4 — Técnica de flexiones y core
 **Enfoque:** Técnica + core · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Movilidad escapular · 1 min
 - Trote suave · 2 min
 - Movilidad de cadera y muñecas · 2 min
@@ -144,7 +144,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 5 — Full body y flexión Mike Tyson
 **Enfoque:** Fuerza global · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote suave · 2 min
 - Movilidad de hombros, cadera y tobillos · 3 min
 
@@ -169,7 +169,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 6 — Resistencia básica
 **Enfoque:** Resistencia · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote progresivo · 3 min
 - Movilidad dinámica general · 2 min
 
@@ -205,7 +205,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 8 — Volumen de flexiones
 **Enfoque:** Empuje · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote suave · 2 min
 - Movilidad de muñecas y hombros · 2 min
 - Activación de core · 1 min
@@ -231,7 +231,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 9 — Pierna unilateral y core
 **Enfoque:** Pierna + core · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Marcha rápida · 2 min
 - Movilidad de cadera y tobillo · 2 min
 - Sentadilla pausada · 1 min
@@ -257,7 +257,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 10 — Control de hombro y empuje
 **Enfoque:** Hombros + técnica · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Movilidad escapular · 2 min
 - Trote suave · 2 min
 - Flexiones inclinadas · 1 min
@@ -283,7 +283,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 11 — Cadena completa
 **Enfoque:** Full body · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote progresivo · 2 min
 - Movilidad general · 3 min
 
@@ -310,7 +310,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 12 — Resistencia y ritmo
 **Enfoque:** Cardio + resistencia · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote fácil · 3 min
 - Movilidad de tobillo y cadera · 2 min
 
@@ -336,7 +336,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 13 — Técnica mixta y control
 **Enfoque:** Técnica global · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote suave · 2 min
 - Movilidad de hombros y muñecas · 2 min
 - Sentadillas y zancadas suaves · 1 min
@@ -372,7 +372,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 15 — Reinicio de volumen
 **Enfoque:** Empuje + pierna · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote progresivo · 2 min
 - Movilidad de muñecas y cadera · 2 min
 - Activación escapular · 1 min
@@ -398,7 +398,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 16 — Pierna y potencia
 **Enfoque:** Pierna + potencia · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Marcha rápida · 2 min
 - Movilidad de tobillo y cadera · 2 min
 - Sentadillas suaves · 1 min
@@ -424,7 +424,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 17 — Hombros y flexiones avanzadas
 **Enfoque:** Empuje técnico · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Movilidad de hombros y muñecas · 3 min
 - Trote suave · 2 min
 
@@ -449,7 +449,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 18 — Full body metabólico
 **Enfoque:** Acondicionamiento · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote fácil · 3 min
 - Movilidad general · 2 min
 
@@ -476,7 +476,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 19 — Resistencia de empuje
 **Enfoque:** Resistencia · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote suave · 2 min
 - Movilidad escapular y muñecas · 2 min
 - Activación de core · 1 min
@@ -503,7 +503,7 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ### DÍA 20 — Cierre de adaptación
 **Enfoque:** Evaluación de técnica · **Duración:** 40–45 min · **Descanso entre series:** 60–90 s
 
-**Calentamiento (4–6 min):
+**Calentamiento (4–6 min):**
 - Trote suave · 2 min
 - Movilidad general · 2 min
 - Una ronda ligera de flexiones y sentadillas · 1 min
@@ -532,3 +532,9 @@ Descanso orientativo: Autoregulado. Enfoque: Consolidación.
 ## Días 21–100
 
 Las fases 2–5 y el calendario completo están incorporados a la aplicación. Sus sesiones individuales se desarrollarán en la siguiente entrega para no inventar una programación que todavía no se ha definido. Los días 95 y 100 están reservados para los tests de referencia de la fase 5.
+
+## Días 21–100 — cómo se calculan
+
+Se repite el ciclo de seis sesiones de los días 15–20 (empuje, pierna, hombros, metabólico, resistencia, evaluación), con un día de descanso cada siete. Respecto a la fase anterior, repeticiones, segundos y minutos de bloque suben un 10 % acumulado: fase 2 ×1,10 · fase 3 ×1,21 · fase 4 ×1,33 · fase 5 ×1,46. Si una sesión no se puede completar, reduce 2–3 repeticiones por serie.
+
+**Test (días 95 y 100):** flexiones máximas, sentadillas máximas, plancha máxima y burpees en 3 minutos, con 3 min de descanso entre pruebas.
