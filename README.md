@@ -1,4 +1,4 @@
-# 100 DÍAS — CrossFit en casa (v3.1)
+# 100 DÍAS — CrossFit en casa (v3.1.1)
 
 Aplicación web progresiva (PWA), minimalista en blanco y negro, para seguir un programa de CrossFit en casa de 100 días.
 
