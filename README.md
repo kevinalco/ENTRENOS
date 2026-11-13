@@ -69,3 +69,8 @@ Los días 1–20 están escritos a mano. Los días 21–100 se generan automáti
 - Se mantienen los registros individuales de series, repeticiones/tiempo y carga.
 - Descanso automático de 30 segundos al marcar una serie, con opción de avanzar al siguiente ejercicio sin esperar.
 - Navegación limitada a un máximo de cinco días por delante del último día completado.
+
+
+## Versión 3.5.0 — Series intercaladas
+
+Durante el entrenamiento se muestra una sola tarjeta de serie cada vez. Al confirmar una serie, la app avanza automáticamente al siguiente ejercicio. Al acabar el listado, comienza la siguiente ronda desde el primer ejercicio, omitiendo las series ya completadas. El botón **Finalizar entreno** solo se habilita cuando todas las series están registradas.
