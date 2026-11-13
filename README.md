@@ -1,4 +1,4 @@
-# 100 DÍAS — CrossFit en casa (v3.4.0)
+# 100 DÍAS — CrossFit en casa (v3.5.3)
 
 Aplicación web progresiva (PWA), minimalista en blanco y negro, para seguir un programa de CrossFit en casa de 100 días.
 
@@ -9,7 +9,9 @@ Aplicación web progresiva (PWA), minimalista en blanco y negro, para seguir un 
 - Calendario completo de 100 días con sesión detallada cada día: descanso cada siete días y tests los días 95 y 100.
 - Pantalla inicial a pantalla completa con el mensaje “EMPEZAMOS?”; se accede a la app deslizando hacia arriba.
 - Navegación por páginas independientes: Inicio, Sesión, Calendario y Progreso.
-- Registro sencillo: cada ejercicio indica claramente “N series de X repeticiones”; cada fila corresponde a una única serie.
+- Entrenamiento por tarjetas: se muestra un solo ejercicio cada vez y cada serie completada lleva automáticamente al siguiente ejercicio.
+- Series intercaladas por rondas: al acabar la lista se vuelve al primer ejercicio y se omiten las series ya completadas.
+- Botón “Finalizar entreno” habilitado únicamente cuando todas las series están completadas.
 - Historial de cargas y repeticiones.
 - Temporizador de descanso ajustable.
 - Estadísticas de sesiones completadas y avance por fase.

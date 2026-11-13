@@ -64,7 +64,7 @@
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script>
 'use strict';
-const APP_VERSION='3.5.2';
+const APP_VERSION='3.5.3';
 const STORAGE_KEY='home-crossfit-100-v3';
 const phases=[
  {id:1,name:'Adaptación y técnica',start:1,end:20,rest:'60–90 s',focus:'Técnica y control',description:'Dominar variantes de flexiones y movimientos básicos. Volumen moderado y técnica limpia.'},
@@ -149,6 +149,7 @@ const content=$('sessionContent');content.innerHTML='<div class="empty">Preparan
  html+=`<div class="block-label">Notas del día</div><p class="note">${esc(d.notes||'Ajusta el esfuerzo según sensaciones y mantén una técnica segura.')}</p><p class="note" style="margin-top:8px">Vuelta a la calma opcional: 3–5 min de caminar suave y movilidad sin dolor.</p>`;
  $('completeDay').disabled=done!==total;$('completeDay').textContent=state.completedDays.includes(selectedDay)?'Entreno finalizado ✓ · reabrir':done===total?'Finalizar entreno':'Completa todas las series';
  $('sessionCount').textContent=`${done} / ${total}`;$('sessionBar').style.width=`${progress}%`;$('completionHint').textContent=done===total?'Todas las series están completadas. Ya puedes finalizar el entreno.':`Quedan ${total-done} series. Al terminar cada una pasarás automáticamente a la siguiente.`;
+ content.innerHTML=html;
  }
  $('dayNotes').value=dayData().notes||'';const completed=state.completedDays.includes(selectedDay);if(!d){$('completeDay').textContent=completed?'Completada ✓ · toca para reabrir':(rest?'Marcar descanso hecho':'Completar sesión');$('completeDay').disabled=!(rest||isTestDay(selectedDay));}else if(completed){$('completeDay').textContent='Entreno finalizado ✓ · reabrir';$('completeDay').disabled=false;}
 }
