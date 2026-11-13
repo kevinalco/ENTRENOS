@@ -1,4 +1,4 @@
-# 100 DÍAS — CrossFit en casa (v3.5.3)
+# 100 DÍAS — CrossFit en casa (v3.5.4)
 
 Aplicación web progresiva (PWA), minimalista en blanco y negro, para seguir un programa de CrossFit en casa de 100 días.
 
@@ -10,6 +10,7 @@ Aplicación web progresiva (PWA), minimalista en blanco y negro, para seguir un 
 - Pantalla inicial a pantalla completa con el mensaje “EMPEZAMOS?”; se accede a la app deslizando hacia arriba.
 - Navegación por páginas independientes: Inicio, Sesión, Calendario y Progreso.
 - Entrenamiento por tarjetas: se muestra un solo ejercicio cada vez y cada serie completada lleva automáticamente al siguiente ejercicio.
+- El calentamiento desaparece automáticamente al completar la primera serie del primer ejercicio y permanece oculto al volver a abrir la sesión.
 - Series intercaladas por rondas: al acabar la lista se vuelve al primer ejercicio y se omiten las series ya completadas.
 - Botón “Finalizar entreno” habilitado únicamente cuando todas las series están completadas.
 - Historial de cargas y repeticiones.
@@ -29,7 +30,7 @@ Aplicación web progresiva (PWA), minimalista en blanco y negro, para seguir un 
 ## Publicar en GitHub Pages
 
 1. Descomprime el ZIP.
-2. Sube el contenido de la carpeta `TRAINING-main` a la raíz de un repositorio de GitHub (no es necesario subir la carpeta contenedora).
+2. Sube el contenido de la carpeta `ENTRENOS-main` a la raíz de un repositorio de GitHub (no es necesario subir la carpeta contenedora).
 3. En el repositorio, abre **Settings → Pages**.
 4. En **Build and deployment**, selecciona **Deploy from a branch**, rama `main` y carpeta `/(root)`.
 5. Guarda y abre la URL publicada por GitHub Pages.
